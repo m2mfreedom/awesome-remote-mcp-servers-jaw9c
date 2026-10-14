@@ -381,3 +381,5 @@ Join the MCP community to stay updated and connect with other developers:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+- **[M2M Market — Freedom Engine](https://github.com/m2mfreedom/freedom-m2m-mcp-server)** (`http://32.197.245.10:3001`) - Zero-registration HTTP 402 Remote M2M Gateway & Clearinghouse (L402 Bitcoin Lightning & x402 Base/Solana USDC) with 100/100 Verified SLA.
